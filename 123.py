@@ -10,8 +10,8 @@ NameUrl = 'http://api.bilibili.com/x/space/acc/info?mid='
 urll = 'http://www.baidu.com/s?wd=ip'
 db = MySQLdb.connect("localhost", "root", "20001101", "bilibiliuser", charset='utf8' )
 cursor = db.cursor()
-print("1")
 
+print("123")
 #
 #
 #
